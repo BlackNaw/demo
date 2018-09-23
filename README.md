@@ -1,4 +1,6 @@
 #Demo Project README
 this is a simple readme file
 
-#HEAD 2
+## Heading 2
+
+Some updates, on a branch
